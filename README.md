@@ -2,7 +2,7 @@
 The things down below will be my self introduction. I hope they will be helpful for you!
 
 # What's my Roblox account?
-If you are curious about what my Roblox account is, you can see the JSON file.
+If you are curious about what my Roblox account is, you can see the <a href="https://github.com/Blocky-Roblox/Blocky-Self-introduction/tree/others/">JSON file</a>.
 
 # How much Robux do I have?
 Actully, I have a few thousands of Robux, but I am not giving them away, so begging me for Robux is useless.
