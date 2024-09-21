@@ -17,4 +17,4 @@ These are some of the games I play:
 The answer is yes. I have high ranks in many games, and I have admin commands in Flight Simulator.
 
 # Are the informations enough for you?
-If no, comment down below!
+If no, comment!
